@@ -1,4 +1,4 @@
-# New Owl App
+# New Owl App (Development)
 
 This is a React Class Based App to render news based on different categories with infinite scrolling
 
